@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\atts\optic_lense"
+	"$translucent" 	"1"
+}

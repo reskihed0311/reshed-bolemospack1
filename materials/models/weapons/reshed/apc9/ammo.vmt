@@ -1,0 +1,30 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\reshed\apc9\body_d4x2"
+	"$bumpmap" "models\weapons\reshed\apc9\body_n"
+	"$phongexponenttexture" "models\weapons\reshed\apc9\body_e"
+
+    $color2    "[ .64 .66 .70 ]" //this controls the colors of the metallic part
+    $blendtintbybasealpha    "1" //this allows us to control the metallic parts
+
+   "$bumpmapalphaphongmask" 1
+	$phongtint	"[0.83 0.88 1]"
+	"$phongalbedotint" 			"1"	
+	"$phongalbedoboost" 			"5"
+	"$rimlight"			"1"
+	"$rimlightexponent"			"32"
+	"$rimlightboost"			"0.16"
+   	"$rimmask"                 		"1"
+
+    $phong    "1"
+    $phongboost    "1"
+    "$PhongFresnelRanges"        "[ 1 4 6 ]" //x = front facing, y = in between, z = parallel facing
+
+	$envmap    "env_cubemap"
+   	 $envmaptint    "[.01 .01 .01]"
+
+
+    $basemapalphaenvmapmask    "1"
+    $envmapfresnel    ".3"
+    "$ambientocclusion" "1"
+}
