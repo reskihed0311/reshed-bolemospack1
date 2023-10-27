@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" models\weapons\reshed\qbz03\T_1P_QBZ03_D"
+	"$bumpmap" "models\weapons\reshed\qbz03\T_1P_QBZ03_N"
+	"$phongexponenttexture" "models\weapons\reshed\qbz03\T_1P_QBZ03_M"
+	
+	"$metal" "1"
+	"$roughnessmultiplier" "1"
+	
+	"$fuzz" "1"
+	"$fuzzmultiplier" ".2"
+	
+	"$envmap" "models\shared\envmap_unfuck"
+	// "$srgbtint" "[.75 .75 .75]"
+}
