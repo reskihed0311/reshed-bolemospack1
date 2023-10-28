@@ -2,7 +2,7 @@ AddCSLuaFile()
 
 SWEP.Base = "arccw_base"
 SWEP.Spawnable = true -- this obviously has to be set to true
-SWEP.Category = "ArcCW - Corvus" -- edit this if you like
+SWEP.Category = "ArcCW - Bôlemos" -- edit this if you like
 SWEP.AdminOnly = false
 SWEP.Slot = 2
 
