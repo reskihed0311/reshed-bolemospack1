@@ -23,6 +23,9 @@ SWEP.ViewModelFOV = 60
 
 SWEP.DefaultBodygroups = "000000000000"
 
+SWEP.ProceduralRegularFire = false
+SWEP.ProceduralIronFire = true
+
 SWEP.Damage = 25
 SWEP.DamageMin = 17 -- damage done at maximum range
 SWEP.Range = 50 -- in METRES
