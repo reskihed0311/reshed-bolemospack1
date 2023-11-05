@@ -1,10 +1,11 @@
-$modelname "reshed_qbz03.mdl"
+$modelname "cw_reshed_qbz03.mdl"
 
 $model "qbz03" "qbz03.smd"
 
 $bodygroup "mount"
 {
     studio "mount_ak.smd"
+	blank
 }
 
 $bodygroup "bottomrail"

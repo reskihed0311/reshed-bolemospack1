@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\reshed\usp45\USP_D"
+	"$bumpmap" "models\weapons\reshed\usp45\USP_N"
+	"$phongexponenttexture" "models\weapons\reshed\usp45\USP_M"
+	
+	"$metal" "1"
+	"$roughnessmultiplier" "1"
+	
+	"$fuzz" "1"
+	"$fuzzmultiplier" ".2"
+	
+	"$envmap" "models\shared\envmap_unfuck"
+	"$srgbtint" "[1.5 1.5 1.5]"
+	
+	"$nocull" "1"
+}

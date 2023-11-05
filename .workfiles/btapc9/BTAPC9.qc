@@ -1,4 +1,4 @@
-$modelname "reshed_apc9.mdl"
+$modelname "cw_reshed_apc9.mdl"
 
 
 $model "apc9" "APC9.smd"
